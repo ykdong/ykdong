@@ -14,7 +14,7 @@
 
 ---
 ### :man_technologist: About Me :
-I’m a full-stack software engineer with experience in web development and database management <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I’m a full-stack software engineer with experience in web development and database management 
 I thrive in environments where autonomy, open communication, strong teamwork, and creative solutions are wanted and expected.
 
 ### :technologist: Interested in my background and want to set up a time to chat?
