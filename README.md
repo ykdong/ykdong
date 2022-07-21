@@ -92,8 +92,6 @@ Testing/Deployment Tools:
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ykdong" /> </div>
 <br>
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=ykdong&theme=xcode" /> </div>
-
 <!--
 **ykdong/ykdong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
