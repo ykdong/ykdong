@@ -89,7 +89,7 @@ Testing/Deployment Tools:
 <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=ykdong&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
 <br>
 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ykdong" /> </div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=ykdong&theme=ayu-light" /> </div>
 
 <!--
 **ykdong/ykdong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
