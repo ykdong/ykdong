@@ -18,7 +18,7 @@ I’m a full-stack software engineer with experience in web development and data
 I thrive in environments where autonomy, open communication, strong teamwork, and creative solutions are wanted and expected.
 
 ### :technologist: Interested in my background and want to set up a time to chat?
-- DM me : [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaokai-dong/)
+<!-- - DM me : [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaokai-dong/) -->
 - Email me : :e-mail: ykdong1991@gmail.com
 
 <h3> 
